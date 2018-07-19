@@ -1,3 +1,8 @@
+/*
+ Fully based on Leaflet.idw, inverse distance weight plugin by Joran Beaufort
+ https://github.com/JoranBeaufort/Leaflet.idw
+ version: 0.0.2
+*/
 !function () {
     "use strict";
     function idw(canvas) {
